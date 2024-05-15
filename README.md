@@ -24,39 +24,30 @@ Eagle
 
 # Theory
 
-
-
-
-
-
-
-
-
+A mosquito repellent PCB board works by emitting ultrasonic or electromagnetic signals that disrupt the sensory receptors of mosquitoes. These signals are designed to be safe for humans but irritating for mosquitoes, deterring them from the area. The board may incorporate components like microcontrollers and transducers to generate and emit these signals. The theory behind this technology is based on exploiting the sensitivity of mosquito sensory systems to specific frequencies, creating an effective repellent effect without the need for chemical substances.
 
 
 ### Working 
 
-
-
-
+A mosquito repellent PCB board functions by emitting ultrasonic waves or electromagnetic signals that disrupt the sensory receptors of mosquitoes, making the environment unpleasant for them. This technology utilizes components like microcontrollers and transducers, such as ultrasonic speakers or electromagnetic emitters, to generate specific frequencies known to be irritating to mosquitoes while safe for humans and pets. When these signals are emitted, they interfere with mosquitoes' ability to locate and feed on hosts, effectively deterring them from the area where the PCB board is installed. The continuous emission of these signals creates a repellent effect without relying on chemical substances, promoting safety for humans and pets. Mosquito repellent PCB boards are designed to operate safely within specified limits and can be powered by batteries or a wired connection, with activation controlled manually or automatically based on time intervals or motion sensors. This technology offers a non-toxic and environmentally friendly approach to mosquito control by leveraging targeted frequencies to disrupt mosquitoes' sensory perception.
 
 
 # Circuit Diagram
+![330841068-ad39aa22-cbdc-40b4-8bf7-72ac884025d6](https://github.com/LavanyaMuraleedharan/PCB-Design-Application/assets/120103862/177ac8eb-f25a-41c9-b35a-0e124b0ff876)
 
 
 
 # Output
 
-
-
 ### Schematic diagram
+![330841210-4b462e12-2599-4f54-8d69-5e06a62cfa9a](https://github.com/LavanyaMuraleedharan/PCB-Design-Application/assets/120103862/92264dce-7b06-4939-b244-fc9ab0594306)
 
 
 
 ### Layout diagram
+![330841451-72bec447-c773-4c61-b58a-31d04fa49ac0](https://github.com/LavanyaMuraleedharan/PCB-Design-Application/assets/120103862/78e77005-396d-47cd-85dc-1c53868c1900)
 
 
 
 # Result
-
-
+Thus , the mosquito repellent circuit's schmetic diagram and layout diagram is designed successfully by using the eagle software.
